@@ -1,0 +1,22 @@
+ [
+    {
+        "id": 1,
+        "src": "/assets/images/product/product-1.png",
+        "title": "Morbi condimentum egestas quam - 3m",
+        "price": 18.90,
+        "offer":35.90,
+        "qntItem":12,
+        "stock": true
+
+    },
+    {
+        "id": 2,
+        "src": "/assets/images/product/product-2.png",
+        "title": "Morbi condimentum egestas quam - 3m",
+        "price": 18.90,
+        "offer":35.90,
+        "qntItem":12,
+        "stock": true
+
+    }
+]
